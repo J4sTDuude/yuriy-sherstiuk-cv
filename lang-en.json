@@ -1,0 +1,42 @@
+{
+  "name": "Yuriy Sherstiuk",
+  "role": "Software Engineer → UI/UX Designer",
+  "location": "Ternopil, Ukraine · Remote-friendly",
+  "phoneNumber": "Phone number: +380992452871",
+  "objectiveTitle": "Objective",
+  "objectiveText": "Motivated Frontend Developer with experience in HTML and CSS, eager to further develop skills in UI/UX design. Seeking an internship to apply technical expertise and creative problem-solving to create user-friendly and visually appealing digital products.",
+  "skillsTitle": "Key Skills",
+  "skills": [
+    "Languages: English – Upper-Intermediate, Ukrainian – Native",
+    "Design Tools: Figma",
+    "Web Technologies: HTML5, CSS3, Flexbox, Grid, Responsive Design, JavaScript (basics)",
+    "Soft Skills: Analytical thinking, empathy, teamwork, attention to detail"
+  ],
+  "experienceTitle": "Experience",
+  "experienceCompany": "Department of International Cooperation – Ternopil Regional Administration",
+  "experienceRole": "Technical Coordinator / Analyst (2024 – 2025)",
+  "experience": [
+    "Coordinated regional and international cooperation projects.",
+    "Structured and visualized information for reports, presentations, and web content.",
+    "Used Figma for internal layouts and interface drafts.",
+    "Coordinated communication between technical and non-technical teams",
+    "Communicated with international partners in English."
+  ],
+  "experienceCompany2": "Ternopil Information and Analytical Center – Ternopil Regional Administration",
+  "experienceRole2": "Analyst / Specialist (2022 – 2024)",
+  "experience2": [
+    "Collected, processed, and analyzed regional data for reports and strategic planning.",
+    "Prepared dashboards and visualizations to support decision-making",
+    "Used Figma for internal layouts and interface drafts.",
+    "Assisted in coordinating projects and internal workflows",
+    "Provided technical support for data management systems.",
+    "Designed and configured network infrastructure, ensuring stable and secure connections"
+  ],
+  "educationTitle": "Education",
+  "education": "Master’s Degree in Software Engineering<br>West Ukrainian National University, 2024",
+  "qualitiesTitle": "Personal Qualities",
+  "qualities": "Strong visual and logical thinking. Quick learner with curiosity for new technologies. Organized, empathetic, and detail-oriented. Open-minded and motivated to grow in a creative team.",
+  "fitTitle": "Why I'm a Good Fit for the Internship",
+  "fit": "I have basic technical knowledge in Frontend and am developing my UI/UX design skills. I am interested in learning, ready to contribute fresh ideas, and develop as a designer in a team-oriented and supportive environment.",
+  "footer": "© 2025 Yuriy Sherstiuk · Built with ❤️ using HTML & CSS · Hosted on GitHub Pages"
+}
